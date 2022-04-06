@@ -1,0 +1,39 @@
+name: quotesapp
+description: A new Flutter application.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.1
+  randomizer: ^0.0.2
+  provider: ^6.0.1
+  splashscreen: ^1.3.5
+  animated_size_and_fade: ^3.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  integration_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - images/Q.png
+
+  fonts:
+    - family: BodoniModa
+      fonts:
+        - asset: fonts/BodoniModa-Italic-VariableFont_opsz,wght.ttf
+    - family: Lato
+      fonts:
+        - asset: fonts/Lato-LightItalic.ttf
+    - family: Actor
+      fonts:
+        - asset: fonts/Actor-Regular.ttf
