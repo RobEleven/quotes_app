@@ -33,7 +33,7 @@ class _FavouritesScreenState extends State<FavouritesScreen> {
           backgroundColor: Colors.white,
           appBar: AppBar(
             title: Text(
-              'Your favourites quotes:',
+              'User favourites quotes:',
               style: appBarTitleStyle,
             ),
             backgroundColor: Colors.indigoAccent.shade100,
