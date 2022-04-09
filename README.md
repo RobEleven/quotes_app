@@ -1,8 +1,7 @@
-# quotes
+# quotes app
 
-A Flutter application called: "quotes".
+Flutter Project made by Robert Antoni Jedynasty
 
-Made by: 
-Robert Antoni Jedynasty
+## Description
 
-
+The application shows functionality of State Management approach: Provider.
